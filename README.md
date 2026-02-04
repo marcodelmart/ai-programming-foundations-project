@@ -68,3 +68,5 @@ This project implements a reproducible data engineering workflow to analyze the 
 
 This project is for academic purposes as part of the Master's in AI.
 
+ 
+Update: Documentation finalized for submission 
